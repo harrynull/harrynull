@@ -1,6 +1,6 @@
 
  <p align="center">
-  <samp>👋 Hello there. I'm Harry Yu, a Software Engineering Student @ University of Waterloo. Previously interned @ Shopify, ByteDance, Faire.</samp><br/><br/>
+  <samp>👋 Hello there. I'm Harry Yu, a Software Engineering Student @ University of Waterloo. Previously interned @ Snowflake, Shopify, ByteDance, Faire.</samp><br/><br/>
   <samp>❤️Coding for Fun.</samp>
   <br />
 </p>
@@ -13,6 +13,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
@@ -20,10 +21,10 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats/pull/1186">
-  <img align="center" src="https://github-readme-stats-francois-rozet.vercel.app/api?username=harrynull&line_height=28&count_private=true&show_icons=true&include_all_commits=true&theme=solarized-light&border_radius=3" height="180" />
+<a href="https://github.com/anuraghazra/github-readme-stat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harrynull&border_radius=3" height="180" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrynull&hide=Jupyter+Notebook,Java,HTML&layout=compact&theme=solarized-light&border_radius=3&card_width=300"  height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrynull&hide=Jupyter+Notebook,Java,HTML&layout=compact"  height="180" />
 </a>
 </p>
